@@ -1,0 +1,723 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|c:\\users\\faizan\\desktop\\yumms-resturant-master\\resturant\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|solutionrelative:resturant\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|c:\\users\\faizan\\desktop\\yumms-resturant-master\\resturant\\views\\yumms\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|solutionrelative:resturant\\views\\yumms\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|c:\\users\\faizan\\desktop\\yumms-resturant-master\\resturant\\migrations\\20240618204657_register_table_created.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|solutionrelative:resturant\\migrations\\20240618204657_register_table_created.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|c:\\users\\faizan\\desktop\\yumms-resturant-master\\resturant\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|solutionrelative:resturant\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|c:\\users\\faizan\\desktop\\yumms-resturant-master\\resturant\\views\\yumms\\unauthorized.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|solutionrelative:resturant\\views\\yumms\\unauthorized.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|c:\\users\\faizan\\desktop\\yumms-resturant-master\\resturant\\views\\yumms\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|solutionrelative:resturant\\views\\yumms\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|c:\\users\\faizan\\desktop\\yumms-resturant-master\\resturant\\views\\yumms\\activeitems.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|solutionrelative:resturant\\views\\yumms\\activeitems.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|c:\\users\\faizan\\desktop\\yumms-resturant-master\\resturant\\views\\shared\\adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|solutionrelative:resturant\\views\\shared\\adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|c:\\users\\faizan\\desktop\\yumms-resturant-master\\resturant\\middleware\\loginredirectmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|solutionrelative:resturant\\middleware\\loginredirectmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|c:\\users\\faizan\\desktop\\yumms-resturant-master\\resturant\\controllers\\yummscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|solutionrelative:resturant\\controllers\\yummscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|c:\\users\\faizan\\desktop\\yumms-resturant-master\\resturant\\views\\yumms\\updateitems.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|solutionrelative:resturant\\views\\yumms\\updateitems.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|c:\\users\\faizan\\desktop\\yumms-resturant-master\\resturant\\views\\yumms\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|solutionrelative:resturant\\views\\yumms\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|c:\\users\\faizan\\desktop\\yumms-resturant-master\\resturant\\views\\yumms\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|solutionrelative:resturant\\views\\yumms\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|c:\\users\\faizan\\desktop\\yumms-resturant-master\\resturant\\views\\yumms\\booktable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|solutionrelative:resturant\\views\\yumms\\booktable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|c:\\users\\faizan\\desktop\\yumms-resturant-master\\resturant\\views\\yumms\\booking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|solutionrelative:resturant\\views\\yumms\\booking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|c:\\users\\faizan\\desktop\\yumms-resturant-master\\resturant\\views\\yumms\\additems.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|solutionrelative:resturant\\views\\yumms\\additems.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|c:\\users\\faizan\\desktop\\yumms-resturant-master\\resturant\\views\\shared\\indexlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|solutionrelative:resturant\\views\\shared\\indexlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|c:\\users\\faizan\\desktop\\yumms-resturant-master\\resturant\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|solutionrelative:resturant\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|c:\\users\\faizan\\desktop\\yumms-resturant-master\\resturant\\db\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|solutionrelative:resturant\\db\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|c:\\users\\faizan\\desktop\\yumms-resturant-master\\resturant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|solutionrelative:resturant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|c:\\users\\faizan\\desktop\\yumms-resturant-master\\resturant\\resturant.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|solutionrelative:resturant\\resturant.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|c:\\users\\faizan\\desktop\\yumms-resturant-master\\resturant\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|solutionrelative:resturant\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|c:\\users\\faizan\\desktop\\yumms-resturant-master\\resturant\\models\\menuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|solutionrelative:resturant\\models\\menuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|c:\\users\\faizan\\desktop\\yumms-resturant-master\\resturant\\migrations\\20240531174916_carttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|solutionrelative:resturant\\migrations\\20240531174916_carttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|c:\\users\\faizan\\desktop\\yumms-resturant-master\\resturant\\db\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|solutionrelative:resturant\\db\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|c:\\users\\faizan\\desktop\\yumms-resturant-master\\resturant\\migrations\\20240528161034_bookingtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|solutionrelative:resturant\\migrations\\20240528161034_bookingtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|c:\\users\\faizan\\desktop\\yumms-resturant-master\\resturant\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|solutionrelative:resturant\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|c:\\users\\faizan\\desktop\\yumms-resturant-master\\resturant\\views\\yumms\\foodpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|solutionrelative:resturant\\views\\yumms\\foodpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|c:\\users\\faizan\\desktop\\yumms-resturant-master\\resturant\\migrations\\20240529200032_foodstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|solutionrelative:resturant\\migrations\\20240529200032_foodstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|c:\\users\\faizan\\desktop\\yumms-resturant-master\\resturant\\models\\addfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|solutionrelative:resturant\\models\\addfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|c:\\users\\faizan\\desktop\\yumms-resturant-master\\resturant\\views\\yumms\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|solutionrelative:resturant\\views\\yumms\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|c:\\users\\faizan\\desktop\\yumms-resturant-master\\resturant\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|solutionrelative:resturant\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|c:\\users\\faizan\\desktop\\yumms-resturant-master\\resturant\\wwwroot\\css\\style.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|solutionrelative:resturant\\wwwroot\\css\\style.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|c:\\users\\faizan\\desktop\\yumms-resturant-master\\resturant\\models\\addtocart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|solutionrelative:resturant\\models\\addtocart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|c:\\users\\faizan\\desktop\\yumms-resturant-master\\resturant\\models\\bookedtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|solutionrelative:resturant\\models\\bookedtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|c:\\users\\faizan\\desktop\\yumms-resturant-master\\resturant\\views\\yumms\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|solutionrelative:resturant\\views\\yumms\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|c:\\users\\faizan\\desktop\\yumms-resturant-master\\resturant\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|solutionrelative:resturant\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sami\\AppData\\Local\\Temp\\l5xtfrp5..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sami\\AppData\\Local\\Temp\\s2pqtwbx..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|c:\\users\\faizan\\desktop\\yumms-resturant-master\\resturant\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|solutionrelative:resturant\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|c:\\users\\faizan\\desktop\\yumms-resturant-master\\resturant\\wwwroot\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|solutionrelative:resturant\\wwwroot\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|c:\\users\\faizan\\desktop\\yumms-resturant-master\\resturant\\views\\shared\\indexlayout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|solutionrelative:resturant\\views\\shared\\indexlayout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|c:\\users\\faizan\\desktop\\yumms-resturant-master\\resturant\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|solutionrelative:resturant\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|c:\\users\\faizan\\desktop\\yumms-resturant-master\\resturant\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F673491-281D-4528-91A5-A8C5181AD06A}|Resturant\\Resturant.csproj|solutionrelative:resturant\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "updateitems.cshtml",
+              "DocumentMoniker": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Views\\Yumms\\updateitems.cshtml",
+              "RelativeDocumentMoniker": "Resturant\\Views\\Yumms\\updateitems.cshtml",
+              "ToolTip": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Views\\Yumms\\updateitems.cshtml",
+              "RelativeToolTip": "Resturant\\Views\\Yumms\\updateitems.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAACgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T22:49:32.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginRedirectMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Middleware\\LoginRedirectMiddleware.cs",
+              "RelativeDocumentMoniker": "Resturant\\Middleware\\LoginRedirectMiddleware.cs",
+              "ToolTip": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Middleware\\LoginRedirectMiddleware.cs",
+              "RelativeToolTip": "Resturant\\Middleware\\LoginRedirectMiddleware.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T22:23:44.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "adminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Views\\Shared\\adminLayout.cshtml",
+              "RelativeDocumentMoniker": "Resturant\\Views\\Shared\\adminLayout.cshtml",
+              "ToolTip": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Views\\Shared\\adminLayout.cshtml",
+              "RelativeToolTip": "Resturant\\Views\\Shared\\adminLayout.cshtml",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAAAHABAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T12:20:02.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "activeitems.cshtml",
+              "DocumentMoniker": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Views\\Yumms\\activeitems.cshtml",
+              "RelativeDocumentMoniker": "Resturant\\Views\\Yumms\\activeitems.cshtml",
+              "ToolTip": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Views\\Yumms\\activeitems.cshtml",
+              "RelativeToolTip": "Resturant\\Views\\Yumms\\activeitems.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T22:45:40.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Views\\Yumms\\login.cshtml",
+              "RelativeDocumentMoniker": "Resturant\\Views\\Yumms\\login.cshtml",
+              "ToolTip": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Views\\Yumms\\login.cshtml",
+              "RelativeToolTip": "Resturant\\Views\\Yumms\\login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T21:30:18.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240618204657_Register_Table_Created.cs",
+              "DocumentMoniker": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Migrations\\20240618204657_Register_Table_Created.cs",
+              "RelativeDocumentMoniker": "Resturant\\Migrations\\20240618204657_Register_Table_Created.cs",
+              "ToolTip": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Migrations\\20240618204657_Register_Table_Created.cs",
+              "RelativeToolTip": "Resturant\\Migrations\\20240618204657_Register_Table_Created.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA6wB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T20:46:57.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Resturant\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Resturant\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T23:44:01.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Views\\Yumms\\Index.cshtml",
+              "RelativeDocumentMoniker": "Resturant\\Views\\Yumms\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Views\\Yumms\\Index.cshtml",
+              "RelativeToolTip": "Resturant\\Views\\Yumms\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T22:45:58.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\appsettings.json",
+              "RelativeDocumentMoniker": "Resturant\\appsettings.json",
+              "ToolTip": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\appsettings.json",
+              "RelativeToolTip": "Resturant\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-30T05:15:18.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Views\\Yumms\\register.cshtml",
+              "RelativeDocumentMoniker": "Resturant\\Views\\Yumms\\register.cshtml",
+              "ToolTip": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Views\\Yumms\\register.cshtml",
+              "RelativeToolTip": "Resturant\\Views\\Yumms\\register.cshtml",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAAIkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T21:33:31.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "unauthorized.cshtml",
+              "DocumentMoniker": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Views\\Yumms\\unauthorized.cshtml",
+              "RelativeDocumentMoniker": "Resturant\\Views\\Yumms\\unauthorized.cshtml",
+              "ToolTip": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Views\\Yumms\\unauthorized.cshtml",
+              "RelativeToolTip": "Resturant\\Views\\Yumms\\unauthorized.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T15:52:21.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "menu.cshtml",
+              "DocumentMoniker": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Views\\Yumms\\menu.cshtml",
+              "RelativeDocumentMoniker": "Resturant\\Views\\Yumms\\menu.cshtml",
+              "ToolTip": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Views\\Yumms\\menu.cshtml",
+              "RelativeToolTip": "Resturant\\Views\\Yumms\\menu.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADYAAACHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T12:21:50.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "booktable.cshtml",
+              "DocumentMoniker": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Views\\Yumms\\booktable.cshtml",
+              "RelativeDocumentMoniker": "Resturant\\Views\\Yumms\\booktable.cshtml",
+              "ToolTip": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Views\\Yumms\\booktable.cshtml",
+              "RelativeToolTip": "Resturant\\Views\\Yumms\\booktable.cshtml",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAC0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T22:51:13.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "YummsController.cs",
+              "DocumentMoniker": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Controllers\\YummsController.cs",
+              "RelativeDocumentMoniker": "Resturant\\Controllers\\YummsController.cs",
+              "ToolTip": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Controllers\\YummsController.cs",
+              "RelativeToolTip": "Resturant\\Controllers\\YummsController.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAAHkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T07:33:12.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "booking.cshtml",
+              "DocumentMoniker": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Views\\Yumms\\booking.cshtml",
+              "RelativeDocumentMoniker": "Resturant\\Views\\Yumms\\booking.cshtml",
+              "ToolTip": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Views\\Yumms\\booking.cshtml",
+              "RelativeToolTip": "Resturant\\Views\\Yumms\\booking.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T18:47:15.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "additems.cshtml",
+              "DocumentMoniker": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Views\\Yumms\\additems.cshtml",
+              "RelativeDocumentMoniker": "Resturant\\Views\\Yumms\\additems.cshtml",
+              "ToolTip": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Views\\Yumms\\additems.cshtml",
+              "RelativeToolTip": "Resturant\\Views\\Yumms\\additems.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T22:58:05.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IndexLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Views\\Shared\\IndexLayout.cshtml",
+              "RelativeDocumentMoniker": "Resturant\\Views\\Shared\\IndexLayout.cshtml",
+              "ToolTip": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Views\\Shared\\IndexLayout.cshtml",
+              "RelativeToolTip": "Resturant\\Views\\Shared\\IndexLayout.cshtml",
+              "ViewState": "AQIAACMBAAAAAAAAAAAAAEEBAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T23:05:06.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Resturant\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Resturant\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAHYBAAAAAAAAAAAAAJABAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T18:25:49.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Db\\SeedData.cs",
+              "RelativeDocumentMoniker": "Resturant\\Db\\SeedData.cs",
+              "ToolTip": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Db\\SeedData.cs",
+              "RelativeToolTip": "Resturant\\Db\\SeedData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T21:24:57.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Resturant.csproj",
+              "DocumentMoniker": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Resturant.csproj",
+              "RelativeDocumentMoniker": "Resturant\\Resturant.csproj",
+              "ToolTip": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Resturant.csproj",
+              "RelativeToolTip": "Resturant\\Resturant.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-03T19:17:23.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Program.cs",
+              "RelativeDocumentMoniker": "Resturant\\Program.cs",
+              "ToolTip": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Program.cs",
+              "RelativeToolTip": "Resturant\\Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T23:29:01.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "register.cs",
+              "DocumentMoniker": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Models\\register.cs",
+              "RelativeDocumentMoniker": "Resturant\\Models\\register.cs",
+              "ToolTip": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Models\\register.cs",
+              "RelativeToolTip": "Resturant\\Models\\register.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T18:07:02.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MenuViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Models\\MenuViewModel.cs",
+              "RelativeDocumentMoniker": "Resturant\\Models\\MenuViewModel.cs",
+              "ToolTip": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Models\\MenuViewModel.cs",
+              "RelativeToolTip": "Resturant\\Models\\MenuViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T01:12:08.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240531174916_CartTable.cs",
+              "DocumentMoniker": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Migrations\\20240531174916_CartTable.cs",
+              "RelativeDocumentMoniker": "Resturant\\Migrations\\20240531174916_CartTable.cs",
+              "ToolTip": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Migrations\\20240531174916_CartTable.cs",
+              "RelativeToolTip": "Resturant\\Migrations\\20240531174916_CartTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:49:16.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Db\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Resturant\\Db\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Db\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Resturant\\Db\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:42:59.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240528161034_BookingTable.cs",
+              "DocumentMoniker": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Migrations\\20240528161034_BookingTable.cs",
+              "RelativeDocumentMoniker": "Resturant\\Migrations\\20240528161034_BookingTable.cs",
+              "ToolTip": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Migrations\\20240528161034_BookingTable.cs",
+              "RelativeToolTip": "Resturant\\Migrations\\20240528161034_BookingTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T16:10:35.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Resturant\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Resturant\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T18:36:34.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "foodpage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Views\\Yumms\\foodpage.cshtml",
+              "RelativeDocumentMoniker": "Resturant\\Views\\Yumms\\foodpage.cshtml",
+              "ToolTip": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Views\\Yumms\\foodpage.cshtml",
+              "RelativeToolTip": "Resturant\\Views\\Yumms\\foodpage.cshtml",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAAAHwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T22:46:00.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20240529200032_FoodsTable.cs",
+              "DocumentMoniker": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Migrations\\20240529200032_FoodsTable.cs",
+              "RelativeDocumentMoniker": "Resturant\\Migrations\\20240529200032_FoodsTable.cs",
+              "ToolTip": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Migrations\\20240529200032_FoodsTable.cs",
+              "RelativeToolTip": "Resturant\\Migrations\\20240529200032_FoodsTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T20:00:33.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "addfood.cs",
+              "DocumentMoniker": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Models\\addfood.cs",
+              "RelativeDocumentMoniker": "Resturant\\Models\\addfood.cs",
+              "ToolTip": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Models\\addfood.cs",
+              "RelativeToolTip": "Resturant\\Models\\addfood.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:25:08.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Views\\Yumms\\cart.cshtml",
+              "RelativeDocumentMoniker": "Resturant\\Views\\Yumms\\cart.cshtml",
+              "ToolTip": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Views\\Yumms\\cart.cshtml",
+              "RelativeToolTip": "Resturant\\Views\\Yumms\\cart.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAE8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T21:52:23.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Resturant\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Resturant\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T22:18:15.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "style.scss",
+              "DocumentMoniker": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\wwwroot\\css\\style.scss",
+              "RelativeDocumentMoniker": "Resturant\\wwwroot\\css\\style.scss",
+              "ToolTip": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\wwwroot\\css\\style.scss",
+              "RelativeToolTip": "Resturant\\wwwroot\\css\\style.scss",
+              "ViewState": "AQIAAEcCAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-05-31T23:33:58.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "addtocart.cs",
+              "DocumentMoniker": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Models\\addtocart.cs",
+              "RelativeDocumentMoniker": "Resturant\\Models\\addtocart.cs",
+              "ToolTip": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Models\\addtocart.cs",
+              "RelativeToolTip": "Resturant\\Models\\addtocart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:41:15.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "bookedtables.cs",
+              "DocumentMoniker": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Models\\bookedtables.cs",
+              "RelativeDocumentMoniker": "Resturant\\Models\\bookedtables.cs",
+              "ToolTip": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Models\\bookedtables.cs",
+              "RelativeToolTip": "Resturant\\Models\\bookedtables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T16:02:21.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "about.cshtml",
+              "DocumentMoniker": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Views\\Yumms\\about.cshtml",
+              "RelativeDocumentMoniker": "Resturant\\Views\\Yumms\\about.cshtml",
+              "ToolTip": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Views\\Yumms\\about.cshtml",
+              "RelativeToolTip": "Resturant\\Views\\Yumms\\about.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T20:46:11.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "Resturant\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "Resturant\\wwwroot\\css\\style.css",
+              "ViewState": "AQIAAEgBAAAAAAAAAAAAAJcBAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-03T15:28:32.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\Sami\\AppData\\Local\\Temp\\l5xtfrp5..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\Sami\\AppData\\Local\\Temp\\l5xtfrp5..sql",
+              "ToolTip": "SQLQuery1.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-31T22:17:49.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SQLQuery2.sql ",
+              "DocumentMoniker": "C:\\Users\\Sami\\AppData\\Local\\Temp\\s2pqtwbx..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\Sami\\AppData\\Local\\Temp\\s2pqtwbx..sql",
+              "ToolTip": "SQLQuery2.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-31T22:45:16.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Resturant\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Resturant\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T20:54:40.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "custom.js",
+              "DocumentMoniker": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\wwwroot\\js\\custom.js",
+              "RelativeDocumentMoniker": "Resturant\\wwwroot\\js\\custom.js",
+              "ToolTip": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\wwwroot\\js\\custom.js",
+              "RelativeToolTip": "Resturant\\wwwroot\\js\\custom.js",
+              "ViewState": "AQIAAAEAAAAAAAAAAABQwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-30T19:14:05.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IndexLayout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Views\\Shared\\IndexLayout.cshtml.css",
+              "RelativeDocumentMoniker": "Resturant\\Views\\Shared\\IndexLayout.cshtml.css",
+              "ToolTip": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Views\\Shared\\IndexLayout.cshtml.css",
+              "RelativeToolTip": "Resturant\\Views\\Shared\\IndexLayout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-25T22:52:19.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Resturant\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Resturant\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T21:42:04.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Resturant\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Faizan\\Desktop\\Yumms-Resturant-master\\Resturant\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Resturant\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T21:42:06.122Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

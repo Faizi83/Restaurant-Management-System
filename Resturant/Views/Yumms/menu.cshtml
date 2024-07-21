@@ -1,0 +1,65 @@
+﻿@model Resturant.Models.MenuViewModel
+
+@{
+    ViewData["Title"] = "Menu Page";
+}
+
+<section class="food_section layout_padding">
+    <div class="container">
+        <div class="heading_container heading_center">
+            <h2>
+                Our Menu
+            </h2>
+        </div>
+
+        <div class="search-box pt-4 pb-3">
+            <form class="d-flex justify-content-center">
+                <input name="searchTerm" placeholder="Search food here" type="text" value="@Model.SearchTerm">
+                <select name="Category">
+                    <option value="All Types" selected="@(Model.Category == "All Types")">All Types</option>
+                    <option value="Burgers" selected="@(Model.Category == "Burgers")">Burgers</option>
+                    <option value="Appetizers" selected="@(Model.Category == "Appetizers")">Appetizers</option>
+                    <option value="Sandwiches" selected="@(Model.Category == "Sandwiches")">Sandwiches</option>
+                    <option value="Pizza & Pasta" selected="@(Model.Category == "Pizza & Pasta")">Pizza & Pasta</option>
+                    <option value="Seafood" selected="@(Model.Category == "Seafood")">Seafood</option>
+                    <option value="Vegetarian" selected="@(Model.Category == "Vegetarian")">Vegetarian</option>
+                    <option value="Desserts" selected="@(Model.Category == "Desserts")">Desserts</option>
+                    <option value="Beverages" selected="@(Model.Category == "Beverages")">Beverages</option>
+                </select>
+
+            </form>
+        </div>
+
+        <div class="filters-content">
+            <div class="row grid">
+
+                @if (!Model.IsFoodAvailable)
+                {
+                    <h1 style="font-size:25px; color:red; opacity:0.8;" class="text-center">Food Not Available</h1>
+
+                }
+
+                @foreach (var food in Model.Foods)
+                {
+                    <div class="col-sm-6 col-lg-4 all burger">
+                        <div class="box">
+                            <div>
+                                <div class="img-box">
+                                    <img src="@food.foodimage" alt="">
+                                </div>
+                                <div class="detail-box">
+                                    <h5>@food.foodname</h5>
+                                    <p>@food.fooddesc</p>
+                                    <div class="options">
+                                        <h6>$@food.foodprice</h6>
+                                        <a href="/food?id=@food.Id"><i style="color: white;" class="fa-solid fa-cart-shopping"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</section>

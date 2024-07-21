@@ -1,0 +1,597 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Resturant\\Resturant\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Resturant.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Resturant.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\css\\foodimages\\0114ba96-58d3-4c23-944d-deac8325a6c8_f11.png",
+      "PackagePath": "staticwebassets\\css\\foodimages\\0114ba96-58d3-4c23-944d-deac8325a6c8_f11.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\css\\foodimages\\1aff37aa-8486-44c8-bbb7-540c56651fff_f`0.png",
+      "PackagePath": "staticwebassets\\css\\foodimages\\1aff37aa-8486-44c8-bbb7-540c56651fff_f`0.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\css\\foodimages\\1dbd2569-07c9-4a0c-ab67-460b552945ea_f19.png",
+      "PackagePath": "staticwebassets\\css\\foodimages\\1dbd2569-07c9-4a0c-ab67-460b552945ea_f19.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\css\\foodimages\\323ad513-78a9-47a4-aba3-beeb9bfaee6e_f9.png",
+      "PackagePath": "staticwebassets\\css\\foodimages\\323ad513-78a9-47a4-aba3-beeb9bfaee6e_f9.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\css\\foodimages\\379f5c2b-f681-4b9c-af10-3d7458bae4ba_f12.png",
+      "PackagePath": "staticwebassets\\css\\foodimages\\379f5c2b-f681-4b9c-af10-3d7458bae4ba_f12.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\css\\foodimages\\42405791-9e08-4e87-b5e6-a5f7f509c88f_f1.png",
+      "PackagePath": "staticwebassets\\css\\foodimages\\42405791-9e08-4e87-b5e6-a5f7f509c88f_f1.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\css\\foodimages\\43a457e6-8211-42dd-bd43-458bfb0b8e7c_f16.png",
+      "PackagePath": "staticwebassets\\css\\foodimages\\43a457e6-8211-42dd-bd43-458bfb0b8e7c_f16.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\css\\foodimages\\4622549b-4f5e-4e6b-a23c-0ec5345addfc_f1.png",
+      "PackagePath": "staticwebassets\\css\\foodimages\\4622549b-4f5e-4e6b-a23c-0ec5345addfc_f1.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\css\\foodimages\\49c563f4-be63-4658-8441-2b81eb1f52a4_f8.png",
+      "PackagePath": "staticwebassets\\css\\foodimages\\49c563f4-be63-4658-8441-2b81eb1f52a4_f8.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\css\\foodimages\\50854ada-fdd3-479b-ace1-cb9e51ff6ffd_f13.png",
+      "PackagePath": "staticwebassets\\css\\foodimages\\50854ada-fdd3-479b-ace1-cb9e51ff6ffd_f13.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\css\\foodimages\\5215e73a-6b2b-4143-ab77-363063513e4d_f1.png",
+      "PackagePath": "staticwebassets\\css\\foodimages\\5215e73a-6b2b-4143-ab77-363063513e4d_f1.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\css\\foodimages\\7410c3b3-5b30-4347-974f-e9217551799a_f20.png",
+      "PackagePath": "staticwebassets\\css\\foodimages\\7410c3b3-5b30-4347-974f-e9217551799a_f20.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\css\\foodimages\\a285c707-3721-40bc-af03-a5a349ea08fb_R.png",
+      "PackagePath": "staticwebassets\\css\\foodimages\\a285c707-3721-40bc-af03-a5a349ea08fb_R.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\css\\foodimages\\a5ad78bb-b9b5-41f2-a4b2-8c88670b0e0e_f17.png",
+      "PackagePath": "staticwebassets\\css\\foodimages\\a5ad78bb-b9b5-41f2-a4b2-8c88670b0e0e_f17.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\css\\foodimages\\ac466310-9911-45df-80a2-29fa13f9e34e_f15.png",
+      "PackagePath": "staticwebassets\\css\\foodimages\\ac466310-9911-45df-80a2-29fa13f9e34e_f15.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\css\\foodimages\\cd36c002-50cb-4d5d-b876-ba3cafed3330_f18.png",
+      "PackagePath": "staticwebassets\\css\\foodimages\\cd36c002-50cb-4d5d-b876-ba3cafed3330_f18.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\css\\foodimages\\d121aca6-9c08-43a5-8458-fc073c2de114_f1.png",
+      "PackagePath": "staticwebassets\\css\\foodimages\\d121aca6-9c08-43a5-8458-fc073c2de114_f1.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\css\\foodimages\\d863d37d-134b-40de-bf60-988f033b1e83_o1.jpg",
+      "PackagePath": "staticwebassets\\css\\foodimages\\d863d37d-134b-40de-bf60-988f033b1e83_o1.jpg"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\css\\foodimages\\e73d6989-34a9-45c3-80b4-cbc3858f0754_f14.png",
+      "PackagePath": "staticwebassets\\css\\foodimages\\e73d6989-34a9-45c3-80b4-cbc3858f0754_f14.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\css\\foodimages\\fe62d7ad-f572-4ec2-9694-87b507b36984_f6.png",
+      "PackagePath": "staticwebassets\\css\\foodimages\\fe62d7ad-f572-4ec2-9694-87b507b36984_f6.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\css\\style.scss",
+      "PackagePath": "staticwebassets\\css\\style.scss"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\foodimages\\21cf0be3-8555-4353-aecd-6296b13d4b0e_f19.png",
+      "PackagePath": "staticwebassets\\foodimages\\21cf0be3-8555-4353-aecd-6296b13d4b0e_f19.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\foodimages\\3e2fbd11-ad4f-4dc6-a6ca-fc67c9527197_f16.png",
+      "PackagePath": "staticwebassets\\foodimages\\3e2fbd11-ad4f-4dc6-a6ca-fc67c9527197_f16.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\foodimages\\479b2ac6-edad-4427-b981-fb0cc73c21c2_f`0.png",
+      "PackagePath": "staticwebassets\\foodimages\\479b2ac6-edad-4427-b981-fb0cc73c21c2_f`0.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\foodimages\\4c8f9f47-bc1e-46e8-a959-eb81a45d884a_f18.png",
+      "PackagePath": "staticwebassets\\foodimages\\4c8f9f47-bc1e-46e8-a959-eb81a45d884a_f18.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\foodimages\\504e8aae-a39c-4ca8-a43f-4e0de8d09258_f17.png",
+      "PackagePath": "staticwebassets\\foodimages\\504e8aae-a39c-4ca8-a43f-4e0de8d09258_f17.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\foodimages\\52deb7e9-22b9-4d65-848d-45d86ff33023_f15.png",
+      "PackagePath": "staticwebassets\\foodimages\\52deb7e9-22b9-4d65-848d-45d86ff33023_f15.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\foodimages\\65e88274-35f0-40b1-a1bb-99e17629006e_f8.png",
+      "PackagePath": "staticwebassets\\foodimages\\65e88274-35f0-40b1-a1bb-99e17629006e_f8.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\foodimages\\6a56648b-12fc-4b94-a75c-b51b88480e7c_f12.png",
+      "PackagePath": "staticwebassets\\foodimages\\6a56648b-12fc-4b94-a75c-b51b88480e7c_f12.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\foodimages\\6f78805b-292d-47e6-ac07-b5def7a55665_f11.png",
+      "PackagePath": "staticwebassets\\foodimages\\6f78805b-292d-47e6-ac07-b5def7a55665_f11.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\foodimages\\891e8a92-143e-4845-9133-717419b6de24_f16.png",
+      "PackagePath": "staticwebassets\\foodimages\\891e8a92-143e-4845-9133-717419b6de24_f16.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\foodimages\\b06f8553-59ca-4148-9953-f8e4c882b6af_f18.png",
+      "PackagePath": "staticwebassets\\foodimages\\b06f8553-59ca-4148-9953-f8e4c882b6af_f18.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\foodimages\\b316da21-d840-400e-bdc5-2ca8605d4c2d_f2.png",
+      "PackagePath": "staticwebassets\\foodimages\\b316da21-d840-400e-bdc5-2ca8605d4c2d_f2.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\foodimages\\bcf753c6-e26c-4db3-9005-f726c751161c_f17.png",
+      "PackagePath": "staticwebassets\\foodimages\\bcf753c6-e26c-4db3-9005-f726c751161c_f17.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\foodimages\\e130632a-d275-4c18-b0b6-f6983e46a8d0_f6.png",
+      "PackagePath": "staticwebassets\\foodimages\\e130632a-d275-4c18-b0b6-f6983e46a8d0_f6.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\foodimages\\e3a7de11-7444-4b56-bce1-9d5f8c0ea13a_f13.png",
+      "PackagePath": "staticwebassets\\foodimages\\e3a7de11-7444-4b56-bce1-9d5f8c0ea13a_f13.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\foodimages\\e55a7e54-dc66-4f48-a3db-cf8960bb766c_f14.png",
+      "PackagePath": "staticwebassets\\foodimages\\e55a7e54-dc66-4f48-a3db-cf8960bb766c_f14.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\foodimages\\e76f1a2e-5bf0-4e3a-aa4c-230bf26f788c_f20.png",
+      "PackagePath": "staticwebassets\\foodimages\\e76f1a2e-5bf0-4e3a-aa4c-230bf26f788c_f20.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\foodimages\\fee4ffe0-4f67-49a4-9c56-e4bbb201f249_f4.png",
+      "PackagePath": "staticwebassets\\foodimages\\fee4ffe0-4f67-49a4-9c56-e4bbb201f249_f4.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\images\\about-img.png",
+      "PackagePath": "staticwebassets\\images\\about-img.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\images\\c.jpg",
+      "PackagePath": "staticwebassets\\images\\c.jpg"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\images\\checj",
+      "PackagePath": "staticwebassets\\images"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\images\\check.png",
+      "PackagePath": "staticwebassets\\images\\check.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\images\\check2.png",
+      "PackagePath": "staticwebassets\\images\\check2.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\images\\client1.jpg",
+      "PackagePath": "staticwebassets\\images\\client1.jpg"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\images\\client2.jpg",
+      "PackagePath": "staticwebassets\\images\\client2.jpg"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\images\\f1.png",
+      "PackagePath": "staticwebassets\\images\\f1.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\images\\f10.png",
+      "PackagePath": "staticwebassets\\images\\f10.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\images\\f11.png",
+      "PackagePath": "staticwebassets\\images\\f11.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\images\\f12.png",
+      "PackagePath": "staticwebassets\\images\\f12.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\images\\f13.png",
+      "PackagePath": "staticwebassets\\images\\f13.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\images\\f14.png",
+      "PackagePath": "staticwebassets\\images\\f14.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\images\\f15.png",
+      "PackagePath": "staticwebassets\\images\\f15.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\images\\f16.png",
+      "PackagePath": "staticwebassets\\images\\f16.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\images\\f17.png",
+      "PackagePath": "staticwebassets\\images\\f17.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\images\\f18.png",
+      "PackagePath": "staticwebassets\\images\\f18.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\images\\f19.png",
+      "PackagePath": "staticwebassets\\images\\f19.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\images\\f2.png",
+      "PackagePath": "staticwebassets\\images\\f2.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\images\\f20.png",
+      "PackagePath": "staticwebassets\\images\\f20.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\images\\f21.png",
+      "PackagePath": "staticwebassets\\images\\f21.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\images\\f3.png",
+      "PackagePath": "staticwebassets\\images\\f3.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\images\\f4.png",
+      "PackagePath": "staticwebassets\\images\\f4.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\images\\f5.png",
+      "PackagePath": "staticwebassets\\images\\f5.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\images\\f6.png",
+      "PackagePath": "staticwebassets\\images\\f6.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\images\\f7.png",
+      "PackagePath": "staticwebassets\\images\\f7.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\images\\f8.png",
+      "PackagePath": "staticwebassets\\images\\f8.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\images\\f9.png",
+      "PackagePath": "staticwebassets\\images\\f9.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\images\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-bg.jpg"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\images\\login-image.jpg",
+      "PackagePath": "staticwebassets\\images\\login-image.jpg"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\images\\o1.jpg",
+      "PackagePath": "staticwebassets\\images\\o1.jpg"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\images\\o2.jpg",
+      "PackagePath": "staticwebassets\\images\\o2.jpg"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\images\\offer-1.png",
+      "PackagePath": "staticwebassets\\images\\offer-1.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\images\\offer-2.png",
+      "PackagePath": "staticwebassets\\images\\offer-2.png"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\images\\offer-3.jpg",
+      "PackagePath": "staticwebassets\\images\\offer-3.jpg"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\images\\offer-4.jpg",
+      "PackagePath": "staticwebassets\\images\\offer-4.jpg"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Resturant\\Resturant\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Resturant.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Resturant.props",
+      "PackagePath": "build\\Resturant.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Resturant.props",
+      "PackagePath": "buildMultiTargeting\\Resturant.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Resturant.props",
+      "PackagePath": "buildTransitive\\Resturant.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,92 @@
+﻿@{
+    ViewData["Title"] = "Booked Tables";
+}
+
+
+
+
+
+@{
+    Layout = "~/Views/Shared/adminLayout.cshtml";
+}
+
+
+
+
+  <section class="intro booking_tables">
+    <h1 class="text-center">Table For Booking</h1>
+    <div class="mt-5">
+      <div class="mask d-flex align-items-center h-100">
+        <div class="container">
+          <div class="row justify-content-center">
+            <div class="col-12">
+            
+                <div class="card-body">
+                  <div class="table-responsive">
+                    <table class="table table-borderless mb-0">
+                      <thead>
+                        <tr>
+                          <th scope="col">
+                           Names
+                          </th>
+                           <th scope="col">Cell No</th>
+                          <th scope="col">Emails</th>
+                          <th scope="col">Persons</th>
+                          <th scope="col">Date</th>
+                          <th scope="col">Remove</th>
+                        </tr>
+                      </thead>
+                      <tbody
+                          @foreach (var bookitem in Model)
+                                    {
+        <tr>
+            <th scope="row">
+                <div>
+                    <p>@bookitem.Name</p>
+                </div>
+            </th>
+            <td>@bookitem.PhoneNumber</td>
+            <td>@bookitem.Email</td>
+            <td>@bookitem.Persons</td>
+            <td>@bookitem.Date</td>
+            <td>
+                <form action="/booktable/delete/@bookitem.Id" method="post" style="display:inline;">
+                                                    @Html.AntiForgeryToken()
+                    <button type="submit" class="btn btn-danger btn-sm px-3">
+                        <i class="fas fa-times"></i>
+                    </button>
+                </form>
+            </td>
+        </tr>
+                                    }
+                                  
+                                    
+                                    @*
+                                        <tr>
+                                            <th scope="row">
+                                                <div>
+                                                    <p>1</p>
+                                                </div>
+                                            </th>
+                                            <td>Tiger Nixon</td>
+                                            <td>System Architect</td>
+                                            <td>61</td>
+                                            <td>Edinburgh</td>
+                                            <td>
+                                                <button type="button" class="btn btn-danger btn-sm px-3">
+                                                    <i class="fas fa-times"></i>
+                                                </button>
+                                            </td>
+                                        </tr>   *@
+                       
+                      </tbody>
+                    </table>
+                  </div>
+                </div>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>

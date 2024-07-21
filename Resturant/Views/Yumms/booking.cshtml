@@ -1,0 +1,68 @@
+﻿@{
+    ViewData["Title"] = "Book Page";
+}
+
+@model Resturant.Models.bookedtables
+
+
+
+<!-- book section -->
+<section class="book_section layout_padding">
+    <div class="container">
+        <div class="heading_container">
+            <h2>
+                Book A Table
+            </h2>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="form_container">
+                    <form method="post" action="booking">
+                        <div>
+                            <input type="text" class="form-control" placeholder="Your Name" asp-for="Name" />
+                            <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+
+                        <div>
+                            <input type="text" class="form-control" placeholder="Phone Number" asp-for="PhoneNumber" />
+                            <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                        </div>
+
+                        <div>
+                            <input type="email" class="form-control" placeholder="Your Email" asp-for="Email" />
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+
+                        <div>
+                            <select class="form-control nice-select wide" asp-for="Persons">
+                                <option disabled value="" selected>How many persons?</option>
+                                <option value="2">2</option>
+                                <option value="3">3</option>
+                                <option value="4">4</option>
+                                <option value="5">5</option>
+                            </select>
+                            <span asp-validation-for="Persons" class="text-danger"></span>
+                        </div>
+
+                        <div>
+                            <input type="date" class="form-control" asp-for="Date" />
+                            <span asp-validation-for="Date" class="text-danger"></span>
+                        </div>
+
+                        <div class="btn_box">
+                            <button type="submit" class="btn btn-primary">Book Now</button>
+                        </div>
+                    </form>
+
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="map_container ">
+                    <div id="googleMap"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- end book section -->
+

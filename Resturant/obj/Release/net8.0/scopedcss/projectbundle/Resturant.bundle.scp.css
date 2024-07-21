@@ -1,0 +1,147 @@
+/* _content/Resturant/Views/Shared/adminLayout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-j7efamdgq1] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-j7efamdgq1] {
+  color: #0077cc;
+}
+
+.btn-primary[b-j7efamdgq1] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-j7efamdgq1], .nav-pills .show > .nav-link[b-j7efamdgq1] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-j7efamdgq1] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-j7efamdgq1] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-j7efamdgq1] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-j7efamdgq1] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-j7efamdgq1] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+/* _content/Resturant/Views/Shared/IndexLayout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-bxpqsli49e] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-bxpqsli49e] {
+  color: #0077cc;
+}
+
+.btn-primary[b-bxpqsli49e] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-bxpqsli49e], .nav-pills .show > .nav-link[b-bxpqsli49e] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-bxpqsli49e] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-bxpqsli49e] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-bxpqsli49e] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-bxpqsli49e] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-bxpqsli49e] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+/* _content/Resturant/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-g7ukuvlait] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-g7ukuvlait] {
+  color: #0077cc;
+}
+
+.btn-primary[b-g7ukuvlait] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-g7ukuvlait], .nav-pills .show > .nav-link[b-g7ukuvlait] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-g7ukuvlait] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-g7ukuvlait] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-g7ukuvlait] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-g7ukuvlait] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-g7ukuvlait] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

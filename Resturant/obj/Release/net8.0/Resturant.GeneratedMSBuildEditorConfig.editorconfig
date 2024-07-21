@@ -1,0 +1,99 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Resturant
+build_property.RootNamespace = Resturant
+build_property.ProjectDir = C:\Users\Faizan\Desktop\Yumms-Resturant-master\Resturant\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Faizan\Desktop\Yumms-Resturant-master\Resturant
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Faizan/Desktop/Yumms-Resturant-master/Resturant/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Faizan/Desktop/Yumms-Resturant-master/Resturant/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Faizan/Desktop/Yumms-Resturant-master/Resturant/Views/Yumms/about.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWXVtbXNcYWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Faizan/Desktop/Yumms-Resturant-master/Resturant/Views/Yumms/activeitems.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWXVtbXNcYWN0aXZlaXRlbXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Faizan/Desktop/Yumms-Resturant-master/Resturant/Views/Yumms/additems.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWXVtbXNcYWRkaXRlbXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Faizan/Desktop/Yumms-Resturant-master/Resturant/Views/Yumms/booking.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWXVtbXNcYm9va2luZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Faizan/Desktop/Yumms-Resturant-master/Resturant/Views/Yumms/booktable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWXVtbXNcYm9va3RhYmxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Faizan/Desktop/Yumms-Resturant-master/Resturant/Views/Yumms/cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWXVtbXNcY2FydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Faizan/Desktop/Yumms-Resturant-master/Resturant/Views/Yumms/foodpage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWXVtbXNcZm9vZHBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Faizan/Desktop/Yumms-Resturant-master/Resturant/Views/Yumms/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWXVtbXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Faizan/Desktop/Yumms-Resturant-master/Resturant/Views/Yumms/login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWXVtbXNcbG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Faizan/Desktop/Yumms-Resturant-master/Resturant/Views/Yumms/menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWXVtbXNcbWVudS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Faizan/Desktop/Yumms-Resturant-master/Resturant/Views/Yumms/register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWXVtbXNccmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Faizan/Desktop/Yumms-Resturant-master/Resturant/Views/Yumms/unauthorized.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWXVtbXNcdW5hdXRob3JpemVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Faizan/Desktop/Yumms-Resturant-master/Resturant/Views/Yumms/updateitems.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWXVtbXNcdXBkYXRlaXRlbXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Faizan/Desktop/Yumms-Resturant-master/Resturant/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Faizan/Desktop/Yumms-Resturant-master/Resturant/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Faizan/Desktop/Yumms-Resturant-master/Resturant/Views/Shared/adminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGFkbWluTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-j7efamdgq1
+
+[C:/Users/Faizan/Desktop/Yumms-Resturant-master/Resturant/Views/Shared/IndexLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEluZGV4TGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-bxpqsli49e
+
+[C:/Users/Faizan/Desktop/Yumms-Resturant-master/Resturant/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-g7ukuvlait

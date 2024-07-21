@@ -1,0 +1,206 @@
+﻿
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+@{
+    Layout = "~/Views/Shared/IndexLayout.cshtml";
+}
+
+
+
+
+    <!-- slider section -->
+    <section class="slider_section">
+        <div id="customCarousel1" class="carousel slide" data-ride="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <div class="container ">
+                        <div class="row">
+                            <div class="col-md-7 col-lg-6 ">
+                                <div class="detail-box">
+                                    <h1>
+                                        Yumss Restaurant
+                                    </h1>
+                                    <p>
+                                        Welcome to Yumss, your ultimate online culinary destination! Indulge your taste buds in a delightful array of delectable dishes as you explore our diverse menu, showcasing a wide range of mouthwatering cuisines.
+                                    </p>
+                                    <div class="btn-box">
+                                        <a href="@Url.Action("menu")" class="btn1">
+                                            Order Now
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+    </section>
+    <!-- end slider section -->
+</div>
+
+<!-- offer section -->
+<section class="offer-section">
+    <div class="container">
+        <div class="heading_container heading_center">
+            <h2>
+                Special Deals
+            </h2>
+        </div>
+        <div class="row pt-5 ">
+
+            <div class="col-lg-6 col-md-12 col-12 p-one ">
+                <div class="deal-box mx-auto">
+                    <img src="~/images/offer-1.png" alt="">
+                    <div class="product-info">
+                        <h3 class="title">Chilli Burger</h3>
+                        <p class="price">$3.00</p>
+                        <a href="@Url.Action("menu")">
+                        <button class="order-btn">Order Now</button>
+                        </a>
+                    </div>
+
+
+
+                </div>
+
+            </div>
+            <div class="col-lg-6 col-md-12 col-12 p-two">
+                <div class="deal-box mx-auto">
+                    <img src="~/images/offer-2.png" alt="">
+                    <div class="product-info">
+                        <h3 class="title">Rage Pizza</h3>
+                        <p class="price">$3.00</p>
+                        <a href="@Url.Action("menu")">
+                            <button class="order-btn">Order Now</button>
+                        </a>
+                    </div>
+
+
+
+                </div>
+
+            </div>
+            <div class="col-lg-6 col-md-12 col-12 pt-5 ">
+                <div class="deal-box mx-auto ">
+                    <img src="~/images/offer-3.jpg" alt="">
+                    <div class="product-info">
+                        <h3 class="title">Beef Meal</h3>
+                        <p class="price">$3.00</p>
+                        <a href="@Url.Action("menu")">
+                            <button class="order-btn">Order Now</button>
+                        </a>
+                    </div>
+
+
+
+                </div>
+
+            </div>
+            <div class="col-lg-6 col-md-12 col-12 pt-5 ">
+                <div class="deal-box  mx-auto ">
+                    <img src="~/images/offer-4.jpg" alt="">
+                    <div class="product-info">
+                        <h3 class="title">Fruit Salad</h3>
+                        <p class="price">$3.00</p>
+                        <a href="@Url.Action("menu")">
+                            <button class="order-btn">Order Now</button>
+                        </a>
+                    </div>
+
+
+
+                </div>
+
+            </div>
+
+
+        </div>
+
+    </div>
+    </div>
+
+</section>
+
+
+<!-- food section -->
+
+<section class="food_section layout_padding-bottom ">
+    <div class="container">
+        <div class="heading_container heading_center">
+            <h2>
+                Top Menu
+            </h2>
+        </div>
+
+
+
+        <div class="filters-content">
+            <div class="row grid">
+                @foreach (var food in Model)
+                {
+                    <div class="col-sm-6 col-lg-4 all pizza">
+                        <div class="box">
+                            <div>
+                                <div class="img-box">
+                                    <img src="@food.foodimage" alt="">
+                                </div>
+                                <div class="detail-box">
+                                    <h5>
+                                        @food.foodname
+                                    </h5>
+                                    <p>
+                                     @food.fooddesc
+                                    </p>
+                                    <div class="options">
+                                        <h6>
+                                           $@food.foodprice
+                                        </h6>
+                                        <a href="/food?id=@food.Id"><i style="color: white;" class="fa-solid fa-cart-shopping"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+
+        </div>
+
+    </div>
+</section>
+
+<!-- end food section -->
+<!-- about section -->
+
+<section class="about_section layout_padding">
+    <div class="container  ">
+
+        <div class="row">
+            <div class="col-md-6 ">
+                <div class="img-box">
+                    <img src="~/images/check.png" alt="">
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="detail-box">
+                    <div class="heading_container">
+                        <h2>
+                            We Are Yumms
+                        </h2>
+                    </div>
+                    <p>
+                        Welcome to Yumms, where culinary delight meets creativity! At Yumms, we take pride in crafting a dining experience that transcends the ordinary. Our passion for exquisite flavors and dedication to exceptional service redefine the art of gastronomy. From tantalizing appetizers to mouthwatering main courses, every dish tells a story of quality ingredients and culinary mastery.
+                    </p>
+                    <a href="">
+                        Read More
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- end about section -->

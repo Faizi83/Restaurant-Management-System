@@ -1,0 +1,125 @@
+﻿@{
+    ViewData["Title"] = "Active Items";
+}
+
+
+@{
+    Layout = "~/Views/Shared/adminLayout.cshtml";
+}
+
+
+
+
+
+
+
+<section class="intro active_items">
+    <h1 class="text-center">Active Items</h1>
+    <div class="mt-5">
+        <div class="mask d-flex align-items-center h-100">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-12">
+
+                        <div class="card-body">
+                            <div class="table-responsive">
+                                <table class="table table-borderless mb-0">
+                                    <thead>
+                                        <tr>
+                                            <th scope="col">
+                                                ID
+                                            </th>
+                                            <th scope="col">Img</th>
+                                            <th scope="col">Name</th>
+                                            <th scope="col">Price</th>
+                                            <th scope="col">Description</th>
+                                            <th scope="col">Update</th>
+                                            <th scope="col">Remove</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        @foreach (var active in Model)
+                                        {
+                                            <tr>
+                                                <th scope="row">
+                                                    <div>
+                                                        <p>@active.Id</p>
+                                                    </div>
+                                                </th>
+                                                <td>
+                                                    <div class="img-box" style="width: 35px; height: 35px; overflow: hidden;">
+                                                        <img src="@active.foodimage" alt="Item Image" style="width: 100%; height: auto;">
+                                                    </div>
+                                                </td>
+                                                <td>@active.foodname</td>
+                                                <td>$@active.foodprice</td>
+                                                <td style="max-width: 150px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">
+                                                   @active.fooddesc
+                                                </td>
+                                                <td>
+                                                      <a asp-action="updateitems" asp-route-id="@active.Id" class="btn btn-success btn-sm px-3">
+                                                        <button type="button" class="btn btn-success btn-sm px-3" style="font-size: 12px; padding: 2px 5px;">
+                                                      
+                                                            <i class="fas fa-edit"></i>
+                                                        
+                                                    </button>
+                                                    </a>
+                                                </td>
+                                                <td>
+                                                    <form asp-action="Delete" asp-route-id="@active.Id" method="post">
+                                                        <button type="submit" class="btn btn-danger btn-sm px-3">
+                                                            <i class="fas fa-times" style="font-size: 10px;"></i>
+                                                        </button>
+
+                                                    </form>
+
+                                                </td>
+                                            </tr>
+                                        }
+
+                              @*           <tr>
+                                            <th scope="row">
+                                                <div>
+                                                    <p>1</p>
+                                                </div>
+                                            </th>
+                                            <td>
+                                                <div class="img-box" style="width: 35px; height: 35px; overflow: hidden;">
+                                                    <img src="/images/f1.png" alt="Item Image" style="width: 100%; height: auto;">
+                                                </div>
+                                            </td>
+                                            <td>System Architect</td>
+                                            <td>61</td>
+                                            <td style="max-width: 150px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">
+                                                Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque
+                                            </td>
+                                            <td>
+                                                <button type="button" class="btn btn-success btn-sm px-3">
+                                                    <i class="fas fa-edit"></i>
+                                                </button>
+                                            </td>
+                                            <td>
+                                                <button type="button" class="btn btn-danger btn-sm px-3">
+                                                    <i class="fas fa-times"></i>
+                                                </button>
+                                            </td>
+                                        </tr> *@
+
+                                       
+
+
+
+
+
+
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

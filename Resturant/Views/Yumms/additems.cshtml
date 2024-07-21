@@ -1,0 +1,71 @@
+﻿@{
+    ViewData["Title"] = "Add Items";
+}
+
+
+
+
+@{
+    Layout = "~/Views/Shared/adminLayout.cshtml";
+}
+
+
+
+
+@model Resturant.Models.addfood
+
+
+<section class="intro add_items">
+    <h1 class="text-center">Add Items</h1>
+
+
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+
+                <form class="add-input" method="post" id="foodForm" enctype="multipart/form-data" >
+                    <div class="row mb-3">
+                        <div class="col-md-10 mx-auto">
+                            <label for="field1" class="form-label">name</label>
+                            <input type="text" class="form-control" id="field1" required asp-for="foodname">
+                        </div>
+                    </div>
+                    <div class="row mb-3">
+                        <div class="col-md-10 mx-auto">
+                            <label for="field2" class="form-label">price</label>
+                            <input type="text" class="form-control" id="field2" pattern="[0-9]*" inputmode="numeric" required asp-for="foodprice">
+
+                        </div>
+                    </div>
+                    <div class="row mb-3">
+                        <div class="col-md-10 mx-auto">
+                            <label for="field2" class="form-label">category</label>
+                            <input type="text" class="form-control" id="field2"  required asp-for="foodcategory">
+
+                        </div>
+                    </div>
+                    <div class="row mb-3">
+                        <div class="col-md-10 mx-auto">
+                            <label for="field3" class="form-label">description</label>
+                            <input type="text" class="form-control" id="field3" required asp-for="fooddesc">
+                        </div>
+                    </div>
+
+                    <div class="row mb-3">
+                        <div class="col-md-10 mx-auto pt-3">
+
+                            <input type="file" class="form-control" id="fileinput" required name="foodimage">
+                        </div>
+                    </div>
+                    <div class="row mb-3">
+                        <div class="col-md-4 mx-auto text-center">
+                            <button type="submit" class="btn" id="submitBtn" onclick="resetForm()">submit</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+</section>
+

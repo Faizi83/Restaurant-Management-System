@@ -1,0 +1,350 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Resturant</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/style.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/style.css.map" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/style.scss" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/font-awesome.min.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/responsive.css" asp-append-version="true" />
+  
+    <!--owl slider stylesheet -->
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
+    <!-- nice select  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-nice-select/1.1.0/css/nice-select.min.css" integrity="sha512-CruCP+TD3yXzlvvijET8wV5WxxEh5H8P4cmz0RFbKK6FlZ2sYl3AEsKlLPHbniXKSrDdFewhbmBK5skbdsASbQ==" crossorigin="anonymous" />
+
+
+    <!-- font awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- SweetAlert2 CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11.3.2/dist/sweetalert2.min.css">
+
+    <!-- SweetAlert2 JS -->
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.3.2/dist/sweetalert2.all.min.js"></script>
+
+
+
+    <style>
+        /* Custom styles for SweetAlert2 */
+        .swal2-popup {
+            background-color: #222; /* Black background color */
+            color: #fff; /* White text color */
+        }
+    </style>
+
+    <style>
+        body {
+            --main-color: #ffb007;
+        }
+
+        .s-page .card {
+            background-color: rgb(37, 35, 35);
+        }
+
+        .i-box img {
+            width: 100%;
+            height: 100%;
+        }
+
+        .s-page {
+            margin-top: 10%;
+        }
+
+        .card {
+            border: none;
+        }
+
+        .product {
+            background-color: rgb(27, 26, 26);
+        }
+
+        .brand {
+            font-size: 13px;
+        }
+
+        .act-price {
+            color: var(--main-color);
+            font-weight: 700;
+        }
+
+        .dis-price {
+            text-decoration: line-through;
+        }
+
+        .about {
+            font-size: 14px;
+        }
+
+        .color {
+            margin-bottom: 10px;
+        }
+
+        label.radio {
+            cursor: pointer;
+        }
+
+            label.radio input {
+                position: absolute;
+                top: 0;
+                left: 0;
+                visibility: hidden;
+                pointer-events: none;
+            }
+
+            label.radio span {
+                padding: 2px 9px;
+                border: 2px solid var(--main-color);
+                display: inline-block;
+                color: var(--main-color);
+                border-radius: 3px;
+                text-transform: uppercase;
+            }
+
+            label.radio input:checked + span {
+                border-color: var(--main-color);
+                background-color: var(--main-color);
+                color: #fff;
+            }
+
+        .btn-danger {
+            background-color: var(--main-color) !important;
+            border-color: #ff0000 !important;
+        }
+
+            .btn-danger:hover {
+                background-color: var(--main-color ) !important;
+                border-color: var(--main-color ) !important;
+            }
+
+            .btn-danger:focus {
+                box-shadow: none;
+            }
+
+        .cart i {
+            margin-right: 10px;
+        }
+
+
+        .cart_link {
+            position: relative;
+        }
+
+        .cart_item_count {
+            position: absolute;
+            top: -10px;
+            right: -10px;
+            background-color: red;
+            color: white;
+            border-radius: 50%;
+            padding: 2px 6px;
+            font-size: 12px;
+            font-weight: bold;
+            line-height: 1;
+            min-width: 20px;
+            text-align: center;
+        }
+
+    </style>
+
+</head>
+<body>
+    <div class="hero_area">
+
+        <div class="bg-box">
+            <img src="/images/c.jpg" alt="">
+        </div>
+        <!-- header section strats -->
+        <header class="header_section fixed-top">
+            <div class="container">
+                <nav class="navbar navbar-expand-lg custom_nav-container ">
+                    <a class="navbar-brand" href="@Url.Action("Index","Yumms")">
+                        <span>
+                            <img class="logo" src="/images/logo.png" alt="">
+                        </span>
+                    </a>
+
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class=""></span>
+                    </button>
+
+
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav  mx-auto ">
+                            <li class="nav-item active">
+                                <a class="nav-link" href="@Url.Action("Index", "Yumms")">Home <span class="sr-only">(current)</span></a>
+
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="@Url.Action("Menu", "Yumms")">Menu </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="@Url.Action("About", "Yumms")">About</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="@Url.Action("booking", "Yumms")">Book Table</a>
+                            </li>
+                        </ul>
+                        <div class="user_option">
+                         @*    <a href="" class="user_link">
+                                <i class="fa fa-user" aria-hidden="true"></i>
+                            </a> *@
+
+                            <a class="cart_link  @(ViewContext.RouteData.Values["Action"].ToString() == "cart" ? "active" : "")" href="@Url.Action("cart", "Yumms")">
+
+                                <i style="color:white;" class="fa-solid fa-cart-shopping"></i>
+                                <span class="cart_item_count">@ViewBag.CartItemCount</span> <!-- Display the cart item count -->
+                            </a>
+                            <a href="#" class="order_online" id="logoutButton">
+                                Logout
+                            </a>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </header>
+        <!-- end header section -->
+   
+    
+            @RenderBody()
+    
+
+  
+  <!-- footer section -->
+  <footer class="footer_section">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4 footer-col">
+          <div class="footer_contact">
+            <h4>
+              Contact Us
+            </h4>
+            <div class="contact_link_box">
+              <a href="">
+                <i class="fa fa-map-marker" aria-hidden="true"></i>
+                <span>
+                  Location
+                </span>
+              </a>
+              <a href="">
+                <i class="fa fa-phone" aria-hidden="true"></i>
+                <span>
+                  Call +923222412321
+                </span>
+              </a>
+              <a href="">
+                <i class="fa fa-envelope" aria-hidden="true"></i>
+                <span>
+                  yumms@gmail.com
+                </span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4 footer-col">
+          <div class="footer_detail">
+            <a href="" class="footer-logo">
+              Yumms
+            </a>
+            <p>
+              Necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with
+            </p>
+            <div class="footer_social">
+              <a href="https://www.facebook.com">
+                <i class="fa-brands fa-facebook-f"></i>
+              </a>
+              <a href="https://www.twitter.com">
+                <i class="fa-brands fa-twitter"></i>
+              </a>
+              <a href="https://www.linkedin.com">
+                <i class="fa-brands fa-linkedin-in"></i>
+              </a>
+              <a href="https://www.instagram.com">
+                <i class="fa-brands fa-square-instagram"></i>
+              </a>
+              <a href="https://www.pinterest.com">
+                <i class="fa-brands fa-pinterest"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4 footer-col">
+          <h4>
+            Opening Hours
+          </h4>
+          <p>
+            Everyday
+          </p>
+          <p>
+            10.00 Am -10.00 Pm
+          </p>
+        </div>
+      </div>
+      <div class="footer-info">
+        <p>
+           <span id="displayYear"></span>Copyrigt 2209G2
+          <a href="https://html.design/">Faizan</a><br><br>
+           <span id="displayYear"></span> F-Template By
+          <a href="https://themewagon.com/" target="_blank">ThemeWagon</a>
+        </p>
+      </div>
+    </div>
+  </footer>
+  <!-- footer section -->
+    </footer>
+
+        <!-- jQery -->
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+        <!-- JavaScript to handle logout confirmation with SweetAlert2 -->
+        <script>
+            $(document).ready(function () {
+                $('#logoutButton').on('click', function () {
+                    // Display SweetAlert2 confirmation dialog
+                    Swal.fire({
+                        title: 'Logout Confirmation',
+                        text: 'Are you sure you want to logout?',
+                        icon: 'warning',
+                        showCancelButton: true,
+                        confirmButtonColor: '#F26C4F', // Orange color for confirm button
+                        cancelButtonColor: '#444', // Dark gray color for cancel button
+                        confirmButtonText: 'Logout',
+                        cancelButtonText: 'Cancel', // Optional: Customize cancel button text
+                        customClass: {
+                            confirmButton: 'btn btn-primary', // Apply Bootstrap btn-primary class to confirm button
+                            cancelButton: 'btn btn-secondary ms-2' // Apply Bootstrap btn-secondary class to cancel button with margin-left
+                        }
+                    }).then((result) => {
+                        if (result.isConfirmed) {
+                            // Perform logout actions here (e.g., clearing session, redirecting)
+                            window.location.href = '/logout';
+
+                            // Optionally, you can clear session or perform other actions before redirecting
+                        }
+                    });
+                });
+            });
+        </script>
+        <!-- popper js -->
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous">
+        </script>
+        <!-- bootstrap js -->
+        <script src="~/js/bootstrap.js"></script>
+        <!-- owl slider -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js">
+        </script>
+        <!-- isotope js -->
+        <script src="https://unpkg.com/isotope-layout@3.0.4/dist/isotope.pkgd.min.js"></script>
+        <!-- nice select -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-nice-select/1.1.0/js/jquery.nice-select.min.js"></script>
+        <!-- custom js -->
+        <script src="~/js/custom.js"></script>
+        <!-- Google Map -->
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCh39n5U-4IoWpsVGUHWdqB6puEkhRLdmI&callback=myMap">
+        </script>
+        <!-- End Google Map -->
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
